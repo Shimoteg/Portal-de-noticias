@@ -12,6 +12,12 @@
 
 }
 
+div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
 #secondary {
     padding-block: 14px;
     border: 1px solid var(--stroke-color);
